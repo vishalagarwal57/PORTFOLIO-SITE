@@ -1,0 +1,68 @@
+
+.AboutSec{
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    column-gap: 100px;
+    padding: 12.5rem 12%;
+}
+
+@media(max-width: 968px){
+    .AboutSec{
+        flex-direction: column;
+        padding: 8% 6%;
+    }
+    .AboutImg{
+       width: 60%;
+    }    
+    .AboutDesc{
+        text-align: center;
+    }
+}
+
+.AboutImg{
+    margin: auto;
+    width: 36%;
+}
+
+
+.AboutHome{
+    max-width: 800px;
+    margin-inline: auto;
+}
+
+.AboutTitle{
+    font-size: 3rem;
+    font-weight: 700;
+    text-align: center;
+    color: white;
+}
+.AboutTitle:hover{
+    color: yellow;
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid yellow;
+}
+.Aboutname{
+    font-weight: 500;
+}
+.Aboutname:hover{
+    color: yellow;
+}
+.AboutDesc{
+    font-size: medium;
+    font-weight: 350;
+    letter-spacing: 1px;
+}
+.AboutDesc1{
+    font-weight: 350;
+}
+.AboutDesc1:hover{
+    color: aqua;
+}
+
+.AboutData{
+    display: flex;
+    flex-direction: column;
+    row-gap: 25px;
+}
