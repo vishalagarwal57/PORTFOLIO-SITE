@@ -13,12 +13,11 @@ const About = () => {
           <span>About Me</span>
         </h1>
         <p className="AboutDesc">
-          Hello, <l className="Aboutname">I'm VISHAL AGARWAL</l>, a passionate web developer with a flair for
+        Hello, <l className="Aboutname">I'm VISHAL AGARWAL</l>, a passionate web developer with a flair for
           crafting digital experiences. My journey in web development began
-          [mention how and when it started]. With a strong foundation in
-          [mention your primary skills or technologies], I have honed my craft
-          by working on diverse projects, ranging from [briefly describe a
-          project type, e.g., e-commerce websites to responsive web apps]. I'm
+          in my collage life as I see many websites and think that  I can also make which make intrested in this field so i entered in this field. With a strong foundation in
+          HTML,CSS,JS,REACTJS and also C,C++,PYTHON,DSA,DAA etc, I have honed my craft
+          by working on diverse projects, ranging from different projects. I'm
           committed to creating sleek, user-friendly designs with clean and
           efficient code. As a perpetual learner, I thrive on embracing emerging
           technologies and solving complex challenges. Let's collaborate and
